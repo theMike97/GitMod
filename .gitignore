@@ -1,0 +1,17 @@
+# Class file
+*.class
+
+# main.java (sensitive info)
+src/main/java/Main.java
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
